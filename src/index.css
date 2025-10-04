@@ -36,6 +36,9 @@ All colors MUST be HSL.
     --input: 35 30% 88%;
     --ring: 188 75% 35%;
 
+    --blue-accent: 215 85% 55%;
+    --blue-accent-foreground: 0 0% 100%;
+
     --radius: 0.75rem;
 
     --sidebar-background: 0 0% 98%;
@@ -83,6 +86,10 @@ All colors MUST be HSL.
     --border: 215 20% 25%;
     --input: 215 20% 25%;
     --ring: 188 65% 45%;
+
+    --blue-accent: 215 80% 60%;
+    --blue-accent-foreground: 0 0% 100%;
+
     --sidebar-background: 240 5.9% 10%;
     --sidebar-foreground: 240 4.8% 95.9%;
     --sidebar-primary: 224.3 76.3% 48%;

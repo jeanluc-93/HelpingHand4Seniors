@@ -38,7 +38,7 @@ const Hero = () => {
                   <Button 
                     size="lg" 
                     className="bg-primary hover:bg-primary/90 text-primary-foreground shadow-lg hover:shadow-xl transition-all duration-300"
-                    onClick={() => window.location.href = 'tel:0812099571'}
+                    onClick={() => window.location.href = 'tel:+27812092571'}
                   >
                     <Phone className="mr-2 h-5 w-5" />
                     Call Now
@@ -63,8 +63,8 @@ const Hero = () => {
                 </div>
                 <div>
                   <p className="text-sm text-muted-foreground">Call Paula</p>
-                  <a href="tel:0812099571" className="text-lg font-semibold hover:text-primary transition-colors">
-                    081 209 9571
+                  <a href="tel:+27812092571" className="text-lg font-semibold hover:text-primary transition-colors">
+                    +27 81 209 2571
                   </a>
                 </div>
               </div>
